@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Varol Maksutoğlu",
+      "salary": "14000",
+      "department": "Yazılım"
+    },
+    {
+      "id": "2",
+      "name": "Elif Özge Akbaş Maksutoğlu",
+      "salary": "3000",
+      "department": "Dijital Bankacılık"
+    },
+    {
+      "name": "Seyit Maksutoğlu",
+      "salary": "4000",
+      "department": "3D Design",
+      "id": "LRFOsxR"
+    }
+  ]
+}
