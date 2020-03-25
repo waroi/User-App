@@ -13,3 +13,6 @@ You will also see any lint errors in the console.
 Start Json Server:
 
 ### `npx json-server --watch api/db.json --port 3004`
+
+Open [http://localhost:3000](http://localhost:3004/users) to view it in the browser.
+
